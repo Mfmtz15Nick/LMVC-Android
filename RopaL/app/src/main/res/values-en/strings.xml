@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RopaL</string>
+    <string name="checkbox_text">Save sesion</string>
+    <string name="login_button">Log in</string>
+    <string name="user_textbox">Username</string>
+    <string name="password_textbox">Password</string>
+    <string name="label_login">Don\'t have an account? Sign up.</string>
+
+</resources>

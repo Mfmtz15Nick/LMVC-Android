@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RopaL</string>
+    <string name="checkbox_text">No cerrar sesión</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="user_textbox">Usuario</string>
+    <string name="password_textbox">Contraseña</string>
+    <string name="label_login">¿No tienes una cuenta? Registrar.</string>
+</resources>
